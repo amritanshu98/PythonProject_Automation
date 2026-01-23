@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Variables and Datatypes">
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex23012026/Lab024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex23012026/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_23012026/Lab024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769087425822</updated>
       <workItem from="1769087427203" duration="4723000" />
-      <workItem from="1769145927330" duration="13246000" />
+      <workItem from="1769145927330" duration="13585000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769150546538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Variables and Datatypes">
+      <option name="closed" value="true" />
+      <created>1769176736175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769176736175</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
