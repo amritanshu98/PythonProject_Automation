@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
+      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab053.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24012026/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24012026/Lab047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24012026/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24012026/Lab048.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +87,11 @@
     "Python.Lab045.executor": "Run",
     "Python.Lab047.executor": "Run",
     "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -144,7 +152,7 @@
       <updated>1769087425822</updated>
       <workItem from="1769087427203" duration="4723000" />
       <workItem from="1769145927330" duration="33036000" />
-      <workItem from="1771421449265" duration="552000" />
+      <workItem from="1771421449265" duration="6797000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -234,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769352317665</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1771422075618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771422075618</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +283,7 @@
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab048.coverage" NAME="Lab048 Coverage Results" MODIFIED="1771421826061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_24012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab021.coverage" NAME="Lab021 Coverage Results" MODIFIED="1769174991490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab019.coverage" NAME="Lab019 Coverage Results" MODIFIED="1769155760266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab053.coverage" NAME="Lab053 Coverage Results" MODIFIED="1771428176985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_18022026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab015.coverage" NAME="Lab015 Coverage Results" MODIFIED="1769154833740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab047.coverage" NAME="Lab047 Coverage Results" MODIFIED="1771421925804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_24012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab018.coverage" NAME="Lab018 Coverage Results" MODIFIED="1769155020743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
@@ -275,12 +292,14 @@
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab036.coverage" NAME="Lab036 Coverage Results" MODIFIED="1769265668286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab027.coverage" NAME="Lab027 Coverage Results" MODIFIED="1769235492242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab010.coverage" NAME="Lab010 Coverage Results" MODIFIED="1769149386767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_22012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab051.coverage" NAME="Lab051 Coverage Results" MODIFIED="1771424394251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_18022026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab026.coverage" NAME="Lab026 Coverage Results" MODIFIED="1769188221551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab029.coverage" NAME="Lab029 Coverage Results" MODIFIED="1769235529384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab035.coverage" NAME="Lab035 Coverage Results" MODIFIED="1769264776039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab052.coverage" NAME="Lab052 Coverage Results" MODIFIED="1771426714439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_18022026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab011.coverage" NAME="Lab011 Coverage Results" MODIFIED="1769149955946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_22012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab006.coverage" NAME="Lab006 Coverage Results" MODIFIED="1769148207034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_22012026" />
-    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab040.coverage" NAME="Lab040 Coverage Results" MODIFIED="1769348282596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_24012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab040.coverage" NAME="Lab040 Coverage Results" MODIFIED="1771424701260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_24012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab003.coverage" NAME="Lab003 Coverage Results" MODIFIED="1769147485533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_22012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab038.coverage" NAME="Lab038 Coverage Results" MODIFIED="1769271830888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_24012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab034.coverage" NAME="Lab034 Coverage Results" MODIFIED="1769264480989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
@@ -288,7 +307,9 @@
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab002.coverage" NAME="Lab002 Coverage Results" MODIFIED="1769092527879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_22012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab028.coverage" NAME="Lab028 Coverage Results" MODIFIED="1769235496134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab037.coverage" NAME="Lab037 Coverage Results" MODIFIED="1769267264215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_23012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab050.coverage" NAME="Lab050 Coverage Results" MODIFIED="1771424114261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_18022026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab014.coverage" NAME="Lab014 Coverage Results" MODIFIED="1769152363622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
+    <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab049.coverage" NAME="Lab049 Coverage Results" MODIFIED="1771423698878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_18022026" />
     <SUITE FILE_PATH="coverage/PythonProject_Automation$Lab017.coverage" NAME="Lab017 Coverage Results" MODIFIED="1769154455085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex23012026" />
   </component>
 </project>
