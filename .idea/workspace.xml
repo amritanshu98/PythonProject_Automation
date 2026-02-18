@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_18022026/Lab053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_18022026/Lab049.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_18022026/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_18022026/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_18022026/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_18022026/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab053.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,7 @@
       <updated>1769087425822</updated>
       <workItem from="1769087427203" duration="4723000" />
       <workItem from="1769145927330" duration="33036000" />
-      <workItem from="1771421449265" duration="6797000" />
+      <workItem from="1771421449265" duration="7147000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -250,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771422075618</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1771432841544</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771432841544</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
