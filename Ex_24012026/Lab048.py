@@ -41,7 +41,7 @@
 #     fact=num*i
 # print(f"Factorial of {num} is:",fact)
 
-#Fibonnaci
+#Fibonacci
 # num = int(input("Enter the number: "))
 # a = 0
 # b = 1
