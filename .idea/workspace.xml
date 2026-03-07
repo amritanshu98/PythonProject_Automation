@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab084.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab070.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +117,13 @@
     "Python.Lab068.executor": "Run",
     "Python.Lab069.executor": "Run",
     "Python.Lab070.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -151,8 +162,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_25022026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_25022026/Lab070.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab070" />
         <item itemvalue="Python.Lab048" />
       </list>
     </recent_temporary>
@@ -304,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771439784829</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1772870364371</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772870364372</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
