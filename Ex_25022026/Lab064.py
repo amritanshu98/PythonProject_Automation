@@ -1,9 +1,12 @@
 def make_pizza(*topings):
     print(topings)
     for topin in topings:
-        print(topin)
+        # print(topin)
+        return topin
 
 
 pramod = make_pizza("tomato")
-bharkave = make_pizza("Olives", "mushroom", "paneer")
-vinay = make_pizza("mushroom", "pineapple", "paneer", "sweetcorn")
+# bhargava = make_pizza("Olives", "mushroom", "paneer")
+# vinay = make_pizza("mushroom", "pineapple", "paneer", "sweetcorn")
+
+print(pramod)

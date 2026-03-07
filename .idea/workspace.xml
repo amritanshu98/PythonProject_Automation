@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_25022026/Lab070.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_25022026/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_25022026/Lab070.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <setting file="file://$PROJECT_DIR$/Ex_24012026/Lab040.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -104,13 +101,18 @@
     "Python.Lab055.executor": "Run",
     "Python.Lab056.executor": "Run",
     "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
     "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
     "Python.Lab062.executor": "Run",
     "Python.Lab063.executor": "Run",
     "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
     "Python.Lab066.executor": "Run",
     "Python.Lab067.executor": "Run",
     "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -118,6 +120,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
@@ -157,7 +160,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
         <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
@@ -171,7 +173,8 @@
       <updated>1769087425822</updated>
       <workItem from="1769087427203" duration="4723000" />
       <workItem from="1769145927330" duration="33036000" />
-      <workItem from="1771421449265" duration="13893000" />
+      <workItem from="1771421449265" duration="16729000" />
+      <workItem from="1771653749035" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -293,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771435067792</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1771439784829</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1771439784829</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

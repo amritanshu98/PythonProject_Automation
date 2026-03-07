@@ -5,8 +5,9 @@
 #
 # Use an if-else statement to make this determination.
 
-year = 2012
+# year = 2012
 
+year = int(input("Enter the year:"))
 # (year % 4 == 0)
 # (year % 100 != 0)
 # (year % 400 == 0)

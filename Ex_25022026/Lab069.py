@@ -18,9 +18,14 @@
 # Eq. = side 1 == side 2 = side 3
 
 
-side1 = 3
-side2 = 3
-side3 = 3
+# side1 = 3
+# side2 = 3
+# side3 = 3
+
+
+side1 = int(input("Enter the side1:"))
+side2 = int(input("Enter the side2:"))
+side3 = int(input("Enter the side3:"))
 
 if side1 == side2 == side3:
     print("Equilateral")

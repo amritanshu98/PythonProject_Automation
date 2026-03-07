@@ -5,7 +5,7 @@
 
 # Built Functions - builtins.py - file (Python 3 setup)
 # Which are created by the Python Contributors
-result = max(2, 3)
+# result = max(2, 3)
 
 
 # User Defined
@@ -29,21 +29,22 @@ result = max(2, 3)
 # say_hello_arg("amit")
 
 
-def say_hello_arg_default(name="Pramod"):  # No Return Type and with Default Argument
+def say_hello_arg_default(name="Amrit"):  # No Return Type and with Default Argument
     # Write the Code
     print("Hello", name)
+
 
 say_hello_arg_default()
 say_hello_arg_default("Deeksha")
 say_hello_arg_default(name="Sachin")
 
 
-
-def sum_number_argument_ret(a, b): # Argument + return Type
+def sum_number_argument_ret(a, b):  # Argument + return Type
     return a + b
+
 
 # result = sum_number_argument_ret(3,4)
 # result = sum_number_argument_ret(31,43)
 # result = sum_number_argument_ret(a=90,b=89)
-result = sum_number_argument_ret(b=101,a=99)
+result = sum_number_argument_ret(b=101, a=99)
 print(result)
