@@ -2,16 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26032026/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Practice/020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab121.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_26032026/Lab103.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26032026/Lab103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_26032026/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26032026/Lab104.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +82,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.001.executor": "Run",
+    "Python.002.executor": "Run",
+    "Python.003.executor": "Run",
+    "Python.004.executor": "Run",
+    "Python.005.executor": "Run",
+    "Python.006.executor": "Run",
+    "Python.007.executor": "Run",
+    "Python.008.executor": "Run",
+    "Python.009.executor": "Run",
+    "Python.010.executor": "Run",
+    "Python.011.executor": "Run",
+    "Python.012.executor": "Run",
+    "Python.013.executor": "Run",
+    "Python.014.executor": "Run",
+    "Python.015.executor": "Run",
+    "Python.016.executor": "Run",
+    "Python.017.executor": "Run",
+    "Python.018.executor": "Run",
+    "Python.019.executor": "Run",
+    "Python.116.executor": "Run",
+    "Python.120.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -137,8 +179,13 @@
     "Python.Lab105.executor": "Run",
     "Python.Lab107.executor": "Run",
     "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
     "Python.Lab110.executor": "Run",
     "Python.Lab111.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab121.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -146,13 +193,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab110">
+  <component name="RunManager">
     <configuration name="Lab048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject_Automation" />
       <option name="ENV_FILES" value="" />
@@ -225,9 +273,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab048" />
         <item itemvalue="Python.Lab110" />
         <item itemvalue="Python.Lab070" />
-        <item itemvalue="Python.Lab048" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772906475012</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1772913407204</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772913407204</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
