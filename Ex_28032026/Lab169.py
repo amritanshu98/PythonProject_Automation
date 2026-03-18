@@ -19,7 +19,8 @@
 # lines = file_object.readlines() for all lines in a list.
 # # Close the file
 
-file = open("D:\Automation via Python\PythonProject_Automation\Ex_28032026\TestData.txt", 'r')
+# file = open("D:\\Automation_via_Python\\PythonProject_Automation\\Ex_28032026\\TestData.txt", 'r')
+file = open("TestData.txt", "r")
 content = file.read()
 print(content)
 file.close()
