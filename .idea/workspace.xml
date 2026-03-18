@@ -2,20 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a47f4c-b412-4e4b-b0e5-0909d9ab2c98" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/Lab151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/xyz/filexyz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27032026/xyz/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_27032026/Lab121.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_27032026/Lab121.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +183,16 @@
     "Python.Lab131.executor": "Run",
     "Python.Lab132.executor": "Run",
     "Python.Lab133.executor": "Run",
+    "Python.Lab134.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab137.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab140.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab143.executor": "Run",
+    "Python.Lab145.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab151.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -456,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773256475625</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Python Basics">
+      <option name="closed" value="true" />
+      <created>1773770967903</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773770967903</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
