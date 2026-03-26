@@ -101,28 +101,3 @@ def test_create_booking_negative_tc2():
     assert response.status_code == 200
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

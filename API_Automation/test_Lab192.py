@@ -1,53 +1,13 @@
-# To make a PUT request, we need
-# URL
-# New Booking
-# Path - Booking ID
-# Token - Auth
-# Payload
-import requests
 import pytest
-import allure
+import requests
 
-
-def create_token():
-    url = "https://restful-booker.herokuapp.com/auth"
-    headers = {"Content-Type": "application/json"}
-    json_payload = {"username": "admin", "password": "password123"}
-
-    response = requests.post(url = url, headers = headers, json = json_payload)
-    token = response.json()["token"]
-    print(token)
-    return token
-
-def create_booking_id():
-    url = "https://restful-booker.herokuapp.com/booking"
-    headers = {"Content-Type": "application/json"}
-    payload = {
-        "firstname": "Amrit",
-        "lastname": "Kumar",
-        "totalprice": 111,
-        "depositpaid": True,
-        "bookingdates": {
-            "checkin": "2026-01-01",
-            "checkout": "2026-01-02"
-        },
-        "additionalneeds": "Breakfast"
-    }
-
-    response = requests.post(url = url, headers =headers, json = payload)
-    booking_id = response.json()["bookingid"]
-    assert response.status_code == 200
-    print(booking_id)
-    print(response.json())
-    return booking_id
-
-
-def test_put_request_positive():
+#Put Request
+def test_put_request_positive(create_token, create_booking_id):
     base_url = "https://restful-booker.herokuapp.com"
-    base_path = "/booking/"+ str(create_booking_id())
+    base_path = "/booking/"+ str(create_booking_id)
     PUT_URL = base_url + base_path
 
-    cookies = "token="+create_token()
+    cookies = "token="+create_token
     headers = {"Content-Type": "application/json",
                "Accept": "application/json",
                "Cookie": cookies}
@@ -75,12 +35,13 @@ def test_put_request_positive():
     print(response.json())
 
 
-def test_delete_request_positive():
+#Delete Request
+def test_delete_request_positive(create_token, create_booking_id):
     base_url = "https://restful-booker.herokuapp.com"
-    base_path = "/booking/" + str(create_booking_id())
+    base_path = "/booking/" + str(create_booking_id)
     DELETE_URL = base_url + base_path
     headers = {"Content-Type": "application/json",
-               "Cookie": "token="+create_token()}
+               "Cookie": "token="+create_token}
     response = requests.delete(url=DELETE_URL, headers= headers)
     assert response.status_code == 201
 
@@ -89,12 +50,12 @@ def test_delete_request_positive():
 
 
 #Patch Request
-# def test_patch_request_positive():
+# def test_patch_request_positive(create_token, create_booking_id):
 #     base_url = "https://restful-booker.herokuapp.com"
-#     base_path = "/booking/"+ str(create_booking_id())
+#     base_path = "/booking/"+ str(create_booking_id)
 #     PATCH_URL = base_url + base_path
 #
-#     cookies = "token="+create_token()
+#     cookies = "token="+create_token
 #     headers = {"Content-Type": "application/json",
 #                "Accept": "application/json",
 #                "Cookie": cookies}
